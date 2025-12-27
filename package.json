@@ -1,0 +1,23 @@
+{
+  "name": "inventory-frontend",
+  "version": "1.0.0",
+  "description": "NextJS frontend for inventory management",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "chart.js": "^4.4.7",
+    "next": "^15.1.6",
+    "react": "^19.0.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^19.0.0"
+  },
+  "keywords": ["inventory", "nextjs", "react"],
+  "author": "",
+  "license": "ISC"
+}
